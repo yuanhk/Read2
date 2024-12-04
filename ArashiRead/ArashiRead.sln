@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArashiRead", "ArashiRead.csproj", "{53AA65C3-9D76-4275-8D6D-A67C2D99F709}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53AA65C3-9D76-4275-8D6D-A67C2D99F709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53AA65C3-9D76-4275-8D6D-A67C2D99F709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53AA65C3-9D76-4275-8D6D-A67C2D99F709}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{53AA65C3-9D76-4275-8D6D-A67C2D99F709}.Debug|Default.Build.0 = Debug|Any CPU
+		{53AA65C3-9D76-4275-8D6D-A67C2D99F709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53AA65C3-9D76-4275-8D6D-A67C2D99F709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53AA65C3-9D76-4275-8D6D-A67C2D99F709}.Release|Default.ActiveCfg = Release|Any CPU
+		{53AA65C3-9D76-4275-8D6D-A67C2D99F709}.Release|Default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F86178F-9C25-4370-A474-64FACF20BC0B}
+	EndGlobalSection
+EndGlobal

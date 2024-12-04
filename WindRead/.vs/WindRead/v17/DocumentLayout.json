@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\WindRead\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{730DEBCC-59B7-4561-8C22-4E60AB185E12}|WindRead.csproj|d:\\work\\windread\\form\\subform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730DEBCC-59B7-4561-8C22-4E60AB185E12}|WindRead.csproj|solutionrelative:form\\subform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730DEBCC-59B7-4561-8C22-4E60AB185E12}|WindRead.csproj|d:\\work\\windread\\form\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730DEBCC-59B7-4561-8C22-4E60AB185E12}|WindRead.csproj|solutionrelative:form\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730DEBCC-59B7-4561-8C22-4E60AB185E12}|WindRead.csproj|d:\\work\\windread\\form\\subform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{730DEBCC-59B7-4561-8C22-4E60AB185E12}|WindRead.csproj|solutionrelative:form\\subform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730DEBCC-59B7-4561-8C22-4E60AB185E12}|WindRead.csproj|d:\\work\\windread\\form\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{730DEBCC-59B7-4561-8C22-4E60AB185E12}|WindRead.csproj|solutionrelative:form\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730DEBCC-59B7-4561-8C22-4E60AB185E12}|WindRead.csproj|d:\\work\\windread\\form\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{730DEBCC-59B7-4561-8C22-4E60AB185E12}|WindRead.csproj|solutionrelative:form\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730DEBCC-59B7-4561-8C22-4E60AB185E12}|WindRead.csproj|d:\\work\\windread\\util\\formutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730DEBCC-59B7-4561-8C22-4E60AB185E12}|WindRead.csproj|solutionrelative:util\\formutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730DEBCC-59B7-4561-8C22-4E60AB185E12}|WindRead.csproj|D:\\work\\WindRead\\form\\subform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730DEBCC-59B7-4561-8C22-4E60AB185E12}|WindRead.csproj|solutionrelative:form\\subform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\x\\AppData\\Local\\Temp\\.vsdbgsrc\\2669427894d1c0d596f0f88684634890908136943da82ab9e91b991830a296a0\\Dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730DEBCC-59B7-4561-8C22-4E60AB185E12}|WindRead.csproj|d:\\work\\windread\\form\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730DEBCC-59B7-4561-8C22-4E60AB185E12}|WindRead.csproj|solutionrelative:form\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730DEBCC-59B7-4561-8C22-4E60AB185E12}|WindRead.csproj|d:\\work\\windread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730DEBCC-59B7-4561-8C22-4E60AB185E12}|WindRead.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730DEBCC-59B7-4561-8C22-4E60AB185E12}|WindRead.csproj|d:\\work\\windread\\cache\\configcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730DEBCC-59B7-4561-8C22-4E60AB185E12}|WindRead.csproj|solutionrelative:cache\\configcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730DEBCC-59B7-4561-8C22-4E60AB185E12}|WindRead.csproj|d:\\work\\windread\\form\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730DEBCC-59B7-4561-8C22-4E60AB185E12}|WindRead.csproj|solutionrelative:form\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\work\\WindRead\\form\\SubForm.cs",
+              "RelativeDocumentMoniker": "form\\SubForm.cs",
+              "ToolTip": "D:\\work\\WindRead\\form\\SubForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "form\\SubForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:11:37.149Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\work\\WindRead\\form\\MainForm.cs",
+              "RelativeDocumentMoniker": "form\\MainForm.cs",
+              "ToolTip": "D:\\work\\WindRead\\form\\MainForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "form\\MainForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:02:44.678Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParentForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\work\\WindRead\\form\\ParentForm.cs",
+              "RelativeDocumentMoniker": "form\\ParentForm.cs",
+              "ToolTip": "D:\\work\\WindRead\\form\\ParentForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "form\\ParentForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:51:00.306Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "D:\\work\\WindRead\\form\\ParentForm.cs",
+              "RelativeDocumentMoniker": "form\\ParentForm.cs",
+              "ToolTip": "D:\\work\\WindRead\\form\\ParentForm.cs",
+              "RelativeToolTip": "form\\ParentForm.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowD8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:48:28.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\work\\WindRead\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\work\\WindRead\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:13:24.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\work\\WindRead\\form\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "form\\MainForm.Designer.cs",
+              "ToolTip": "D:\\work\\WindRead\\form\\MainForm.Designer.cs",
+              "RelativeToolTip": "form\\MainForm.Designer.cs",
+              "ViewState": "AQIAACoBAAAAAAAAAIA0wDsBAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:11:53.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConfigCache.cs",
+              "DocumentMoniker": "D:\\work\\WindRead\\cache\\ConfigCache.cs",
+              "RelativeDocumentMoniker": "cache\\ConfigCache.cs",
+              "ToolTip": "D:\\work\\WindRead\\cache\\ConfigCache.cs",
+              "RelativeToolTip": "cache\\ConfigCache.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:02:28.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormUtil.cs",
+              "DocumentMoniker": "D:\\work\\WindRead\\util\\FormUtil.cs",
+              "RelativeDocumentMoniker": "util\\FormUtil.cs",
+              "ToolTip": "D:\\work\\WindRead\\util\\FormUtil.cs",
+              "RelativeToolTip": "util\\FormUtil.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAEwBgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:59:02.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\work\\WindRead\\form\\MainForm.cs",
+              "RelativeDocumentMoniker": "form\\MainForm.cs",
+              "ToolTip": "D:\\work\\WindRead\\form\\MainForm.cs",
+              "RelativeToolTip": "form\\MainForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAANUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:45:31.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dictionary.cs",
+              "DocumentMoniker": "C:\\Users\\x\\AppData\\Local\\Temp\\.vsdbgsrc\\2669427894d1c0d596f0f88684634890908136943da82ab9e91b991830a296a0\\Dictionary.cs",
+              "ToolTip": "C:\\Users\\x\\AppData\\Local\\Temp\\.vsdbgsrc\\2669427894d1c0d596f0f88684634890908136943da82ab9e91b991830a296a0\\Dictionary.cs [\u53EA\u8BFB]",
+              "ViewState": "AQIAACoDAAAAAAAAAAAMwD0DAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:37:09.496Z",
+              "EditorCaption": " [\u53EA\u8BFB]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SubForm.Designer.cs",
+              "DocumentMoniker": "D:\\work\\WindRead\\form\\SubForm.Designer.cs",
+              "RelativeDocumentMoniker": "form\\SubForm.Designer.cs",
+              "ToolTip": "D:\\work\\WindRead\\form\\SubForm.Designer.cs",
+              "RelativeToolTip": "form\\SubForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:39:07.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubForm.cs",
+              "DocumentMoniker": "D:\\work\\WindRead\\form\\SubForm.cs",
+              "RelativeDocumentMoniker": "form\\SubForm.cs",
+              "ToolTip": "D:\\work\\WindRead\\form\\SubForm.cs",
+              "RelativeToolTip": "form\\SubForm.cs",
+              "ViewState": "AQIAAEIDAAAAAAAAAAAnwFYDAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:36:01.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

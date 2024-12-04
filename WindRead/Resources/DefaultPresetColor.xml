@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--预置配色-->
+<DefaultPresetColor>
+	<item>
+		<Name>藏青</Name>
+		<Index>1</Index>
+		<BackColor>333F50</BackColor>
+		<ForeColor>B4B5B6</ForeColor>
+		<HoverColor>0C948D</HoverColor>
+		<CheckedColor>FF6347</CheckedColor>
+		<BorderColor>#808080</BorderColor>
+	</item>
+</DefaultPresetColor>

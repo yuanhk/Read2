@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--预置配色-->
+<DefaultPresetColor>
+	<item>
+		<name>纯白</name>
+		<index>0</index>
+		<backColor>255,255,255</backColor>
+		<foreColor>0,0,0</foreColor>
+		<promptColor>254,153,0</promptColor>
+		<selectionColor>93,226,231</selectionColor>
+		<otherColor>180,181,182</otherColor>
+	</item>
+	<item>
+		<name>藏青</name>
+		<index>1</index>
+		<backColor>51,63,80</backColor>
+		<foreColor>180,181,182</foreColor>
+		<promptColor>255,99,71</promptColor>
+		<selectionColor>12,148,141</selectionColor>
+		<otherColor>80,80,80</otherColor>
+	</item>
+	<item>
+		<name>IDEA</name>
+		<index>2</index>
+		<backColor>51,63,80</backColor>
+		<foreColor>180,181,182</foreColor>
+		<promptColor>255,99,71</promptColor>
+		<selectionColor>12,148,141</selectionColor>
+		<otherColor>80,80,80</otherColor>
+	</item>
+</DefaultPresetColor>

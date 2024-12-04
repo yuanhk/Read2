@@ -1,0 +1,71 @@
+# 用户特定文件
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 构建结果
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio 缓存/选项目录
+vs/
+
+# MSTest 测试结果
+[Tt]est[Rr]esult*/
+
+# .NET Core 项目
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/Properties/launchSettings.json
+
+# NuGet 包
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+# Microsoft Azure 构建输出
+csx/
+*.build.csdef
+
+# Windows Store 应用包目录和文件
+AppPackages/
+BundleArtifacts/
+Package.StoreAssociation.xml
+_pkginfo.txt
+
+# Visual Studio 缓存文件
+*. [Cc]ache
+!?*. [Cc]ache/
+
+# 其他
+ClientBin/
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+orleans.codegen.cs
+
+# JetBrains Rider
+idea/
+*.sln.iml
+
+# Python Tools for Visual Studio (PTVS)
+__pycache__/
+*.pyc
+
+# Visual Studio Code
+vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace

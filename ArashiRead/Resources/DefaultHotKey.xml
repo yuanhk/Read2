@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- 默认热键设置 -->
+<HotKeys>
+  <item>
+    <keyCode>Left</keyCode>
+    <effect>上一页</effect>
+    <explain>向左键</explain>
+  </item>
+  <item>
+    <keyCode>Right</keyCode>
+    <effect>下一页</effect>
+    <explain>向右键</explain>
+  </item>
+  <item>
+    <keyCode>Up</keyCode>
+    <effect>上一页</effect>
+    <explain>向上键</explain>
+  </item>
+  <item>
+    <keyCode>Down</keyCode>
+    <effect>下一页</effect>
+    <explain>向下键</explain>
+  </item>
+  <item>
+    <keyCode>Oemtilde</keyCode>
+    <effect>最小化</effect>
+    <explain>美式标准键盘上的OEM波形符键</explain>
+  </item>
+  <item>
+    <keyCode>Escape</keyCode>
+    <effect>关闭</effect>
+    <explain>Esc键</explain>
+  </item>
+  <item>
+    <keyCode>NumPad1</keyCode>
+    <effect>全局最小化/还原</effect>
+    <explain>数字键盘上的1键</explain>
+  </item>
+  <item>
+    <keyCode>NumPad2</keyCode>
+    <effect>全局关闭</effect>
+    <explain>数字键盘上的2键</explain>
+  </item>
+</HotKeys>
